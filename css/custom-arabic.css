@@ -1,0 +1,19 @@
+
+i, 
+.carousel-control-prev-icon,
+.carousel-control-next-icon,
+.filp img {
+    transform: scaleX(-1);
+}
+
+.set-art-pos-ar {
+    right: calc(100% - 350px)
+}
+
+.social i {
+    transform: scaleX(1);
+}
+
+.modal-spacing {
+    padding-left: 3rem !important;
+}

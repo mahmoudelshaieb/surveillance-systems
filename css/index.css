@@ -66,6 +66,6 @@
     content: '.';
     font-size: 1.3em !important;
     color: #F2994A;
-    padding-left: 5px;
+    padding: 0 5px;
     text-shadow: 0 2px 20px #F2994A;
 }
