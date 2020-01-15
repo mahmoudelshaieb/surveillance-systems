@@ -1,0 +1,18 @@
+Method 1:
+to preview you must use Live Server (can use Live Server extention in VScode)
+* install it and then start from index.html and just press alt+L+O keys
+
+
+or
+
+
+Method 2:
+just use this domain: http://surveillance-systems-en.surge.sh/  
+* (but this for english version only)
+-------------------------------------------
+to preview arabic version use Method 1 and uncomment these files
+* <link rel="stylesheet" href="css/bootstrap-rtl.css">
+* <link rel="stylesheet" href="css/custom-arabic.css"> in head tag
+
+--------------------------------------------------------
+gitHub repo: https://github.com/mahmoudelshaieb/surveillance-systems
