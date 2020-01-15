@@ -2,9 +2,7 @@ Method 1:
 to preview you must use Live Server (can use Live Server extention in VScode)
 * install it and then start from index.html and just press alt+L+O keys
 
-
 or
-
 
 Method 2:
 just use this domain: http://surveillance-systems-en.surge.sh/  
