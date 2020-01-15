@@ -1,0 +1,12 @@
+    $(function(){
+        $("#main-header").load("main-header.html");
+    });
+    $(function(){
+        $("#main-content").load("main-content.html");
+    });
+    $(function(){
+        $("#footer").load("footer.html");
+    });
+    $(function(){
+        $("#service-cards").load("services.html");
+    });
