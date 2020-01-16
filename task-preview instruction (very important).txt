@@ -14,3 +14,5 @@ to preview arabic version use Method 1 and uncomment these files
 
 --------------------------------------------------------
 gitHub repo: https://github.com/mahmoudelshaieb/surveillance-systems
+
+see folder (sitemap&&wireframing) for sitemap and wireframing
